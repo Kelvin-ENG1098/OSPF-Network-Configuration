@@ -10,7 +10,7 @@ It simulates a small enterprise network where routers automatically share routin
 The network consists of multiple routers, switches, and end devices connected to form a routed domain using **OSPFv2**.
 
 **Devices Used:**
-- 3 × Cisco Routers (e.g., 2911 series)
+- 3 × Huawei Routers (e.g., AR series)
 - 2 × Layer 2 Switches
 - 3 × End Devices (PCs)
 - 1 × Server
